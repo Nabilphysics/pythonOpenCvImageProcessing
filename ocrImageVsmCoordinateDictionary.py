@@ -24,7 +24,7 @@ reader = easyocr.Reader(['en'], gpu = False)
 
 #import time
 
-#discordWebhookUrl = 'https://discord.com/api/webhooks/938841550077714433/1zRvqe64FNkIcBMtjQ5tPDjZQTI8-XOFAFcXXRGOzeGI4iXwK_6HXyFSCplcytm2OANO'
+#discordWebhookUrl = 'https://discord.com/api/webhooks/9388077714433/_6HXyFSCpl2OANO'
 
 font = cv2.FONT_HERSHEY_SIMPLEX
 
