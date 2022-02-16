@@ -1,0 +1,78 @@
+#Image Info: 
+#XTL and YTL= x and y coordinate_top_left , XBR and YBR = x and y coordinate of botom left rectangle
+tempCor = {"XTL":, "YTL": ,"XBR":, "YBR":}  
+bpmCor = {"XTL":, "YTL": ,"XBR":, "YBR":}  
+spo2Cor = {"XTL":, "YTL": ,"XBR":, "YBR":} 
+prCor = {"XTL":, "YTL": ,"XBR":, "YBR":} 
+respCor = {"XTL":, "YTL": ,"XBR":, "YBR":} 
+bloodPressureCor = {"XTL":, "YTL": ,"XBR":, "YBR":} 
+mmHgCor = {"XTL":, "YTL": ,"XBR":, "YBR":} 
+
+#ESP32Cam Top centre
+#XTL and YTL= x and y coordinate_top_left , XBR and YBR = x and y coordinate of botom left rectangle
+tempCor = {"XTL":496, "YTL":464 ,"XBR":634, "YBR":478}  
+bpmCor = {"XTL":536, "YTL":234 ,"XBR":741, "YBR":334}  
+spo2Cor = {"XTL":519, "YTL":384 ,"XBR":619, "YBR":434} 
+prCor = {"XTL":702, "YTL":389 ,"XBR":757, "YBR":436} 
+respCor = {"XTL":500, "YTL":447 ,"XBR":557, "YBR":478} 
+bloodPressureCor = {"XTL":120, "YTL":492 ,"XBR":316, "YBR":528} 
+mmHgCor = {"XTL":356, "YTL":513 ,"XBR":406, "YBR":532} 
+
+#ESP32Cam Right Corner
+#XTL and YTL= x and y coordinate_top_left , XBR and YBR = x and y coordinate of botom left rectangle
+tempCor = {"XTL":474, "YTL":420 ,"XBR":517, "YBR":440}  
+bpmCor = {"XTL":363, "YTL":119 ,"XBR":554, "YBR":255}  
+spo2Cor = {"XTL":383, "YTL":307 ,"XBR":481, "YBR":370} 
+prCor = {"XTL":555, "YTL":319 ,"XBR":622, "YBR":368} 
+respCor = {"XTL":384, "YTL":390 ,"XBR":437, "YBR":430} 
+bloodPressureCor = {"XTL":125, "YTL":415 ,"XBR":269, "YBR":478} 
+mmHgCor = {"XTL":, "YTL": ,"XBR":, "YBR":} 
+
+#ESP32Cam Right Corner 2
+tempCor = {"XTL":560, "YTL":487 ,"XBR":596, "YBR":504}    
+bpmCor =  {"XTL":424, "YTL":196 ,"XBR":598, "YBR":324}
+spo2Cor = {"XTL":459, "YTL":381 ,"XBR":547, "YBR":442} 
+prCor = {"XTL":631, "YTL":381 ,"XBR":693, "YBR":421} 
+respCor = {"XTL":467, "YTL":467 ,"XBR":521, "YBR":506} 
+bloodPressureCor = {"XTL":172, "YTL":528 ,"XBR":334, "YBR":581} 
+mmHgCor = {"XTL":366, "YTL":560 ,"XBR":407, "YBR":587} 
+
+#ESP32 Cam left bottom corner camera
+#XTL and YTL= x and y coordinate_top_left , XBR and YBR = x and y coordinate of botom left rectangle
+tempCor = {"XTL":581, "YTL":437 ,"XBR":609, "YBR":452}  
+bpmCor = {"XTL":485, "YTL":192 ,"XBR":612, "YBR":288}  
+spo2Cor = {"XTL":514, "YTL":336 ,"XBR":580, "YBR":399} 
+prCor = {"XTL":627, "YTL":344 ,"XBR":661, "YBR":377} 
+respCor = {"XTL":512, "YTL":422 ,"XBR":551, "YBR":461} 
+bloodPressureCor = {"XTL":138, "YTL":520 ,"XBR":360, "YBR":599} 
+mmHgCor = {"XTL":404, "YTL":546 ,"XBR":450, "YBR":576} 
+
+#ESP32 cam bottom centre
+#XTL and YTL= x and y coordinate_top_left , XBR and YBR = x and y coordinate of botom left rectangle
+tempCor = {"XTL":635, "YTL":441 ,"XBR":681, "YBR":463}  
+bpmCor = {"XTL":538, "YTL":192 ,"XBR":667, "YBR":290}  
+spo2Cor = {"XTL":547, "YTL":338 ,"XBR":630, "YBR":396} 
+prCor = {"XTL":715, "YTL":341 ,"XBR":767, "YBR":380} 
+respCor = {"XTL":539, "YTL":424 ,"XBR":591, "YBR":464} 
+bloodPressureCor = {"XTL":109, "YTL":504 ,"XBR":346, "YBR":579} 
+mmHgCor = {"XTL":379, "YTL":543 ,"XBR":439, "YBR":580} 
+
+#Image Info: Capture from webcam2 1080p
+#XTL and YTL= x and y coordinate_top_left , XBR and YBR = x and y coordinate of botom left rectangle
+tempCor = {"XTL":1168, "YTL":490 ,"XBR":1225, "YBR":519}  
+bpmCor = {"XTL":1028, "YTL":58 ,"XBR":1251, "YBR":242}  
+spo2Cor = {"XTL":1033, "YTL":322 ,"XBR":1166, "YBR":419} 
+prCor = {"XTL":1286, "YTL":320 ,"XBR":1378, "YBR":389} 
+respCor = {"XTL":1018, "YTL":460 ,"XBR":1104, "YBR":528} 
+bloodPressureCor = {"XTL":400, "YTL":597 ,"XBR":728, "YBR":704} 
+mmHgCor = {"XTL":793, "YTL":653 ,"XBR":871, "YBR":697} 
+
+#Image Info: Capture webcam 2  480p
+#XTL and YTL= x and y coordinate_top_left , XBR and YBR = x and y coordinate of botom left rectangle
+tempCor = {"XTL":658, "YTL":334 ,"XBR":695, "YBR":352}  
+bpmCor = {"XTL":563, "YTL":40 ,"XBR":698, "YBR":157}  
+spo2Cor = {"XTL":572, "YTL":218 ,"XBR":651, "YBR":288} 
+prCor = {"XTL":743, "YTL":221 ,"XBR":795, "YBR":263} 
+respCor = {"XTL":558, "YTL":310 ,"XBR":609, "YBR":361} 
+bloodPressureCor = {"XTL":144, "YTL":406 ,"XBR":356, "YBR":477} 
+mmHgCor = {"XTL":407, "YTL":442 ,"XBR":460, "YBR":471} 
